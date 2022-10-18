@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D07A-A686
+
+ Directory of C:\Users\Sai Prasad\OneDrive\Desktop\GITProject1
+
+18-10-2022  13:35    <DIR>          .
+18-10-2022  13:35    <DIR>          ..
+18-10-2022  13:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  99,422,380,032 bytes free
